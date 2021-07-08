@@ -1,0 +1,122 @@
+/*indeqs.html start*/
+body{
+	background: lightgray;
+}
+h1{
+	padding: 0 600px;
+	font-size: 50px;
+	display: inline-block;
+}
+.navbar{
+	padding: 15px;
+}
+.navbar > a {
+	display: inline-block;
+	margin-left: 30px;
+}
+ul{
+	list-style: none;
+}
+a {
+	font-size: 25px;
+	text-decoration: none;
+	color: green; 
+}
+a:hover {
+	color: black;
+	font-size: 35px;
+}
+div{
+	display: flex;
+}
+img {
+	width: 500px;
+	display: inline;
+	padding: 15px;
+}
+p {
+	font-size: 25px;
+	display: inline;
+	margin: 40px 5px 35px 15px;
+	display: flex;
+}
+/*indeqs.html end*/
+/*information.html start*/
+     .main-h1 {
+	font-size:  50px;
+	padding:  20px;
+	font-weight: bold;
+}
+a {
+	font-size: 25px;
+	text-decoration: none;
+	color: green; 
+}
+a:hover {
+	color: black;
+	font-size: 35px;
+}
+     .main-p {
+	margin-top: 10px;
+	display: flex;
+	margin-left: 25px;
+	margin-right: 15px;
+	margin-bottom: 20px;
+	font-size: 30px;
+}
+    .main-p1{
+    margin-top: 20px;
+    display: flex;
+	margin-left: 20px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+	font-size: 30px;
+}
+/*information.html end*/
+/*gallery.html start*/
+     .second-h1{
+     	font-size: 50px;
+     	padding: 20px;
+     	font-weight: bold;
+     }
+a {
+	font-size: 25px;
+	text-decoration: none;
+	color: green; 
+}
+a:hover {
+	color: black;
+	font-size: 35px;
+}
+     .img-section > img {
+      width: 40%;
+      margin: 15px 20px 10px 10px;
+      margin: 15px;
+     }
+/*gallery.html end*/
+/*Additional Information start*/
+.third-h1 {
+	font-size: 50px;
+     padding: 20px;
+     font-weight: bold;
+}
+a {
+	font-size: 25px;
+	text-decoration: none;
+	color: green; 
+}
+a:hover {
+	color: black;
+	font-size: 35px;
+}
+.main-class {
+	font-size: 30px;
+	padding: 20px 15px;	
+}
+.img-class{
+	width: 500px;
+	display: inline;
+	padding: 15px 10px 15px 10px;
+}
+
+/*Additional Information end*/
